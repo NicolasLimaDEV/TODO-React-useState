@@ -1,7 +1,6 @@
 # ToDo List utilizando o Hook (useState)
 
-<img src="![Imagem 01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/46935faa-94de-40de-bca2-e6d7039a789e)
-" /> 
+![Imagem 01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/46935faa-94de-40de-bca2-e6d7039a789e)
 
 </br> 
 
@@ -9,4 +8,4 @@
 
 </br>
 
-<img src="![Imagem02](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/10c87420-c37d-47dc-a4a1-8f1e2c69b30c)" />
+![Imagem02](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/10c87420-c37d-47dc-a4a1-8f1e2c69b30c)
