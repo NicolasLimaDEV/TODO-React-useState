@@ -5,8 +5,7 @@
 
 </br> 
 
-<img src="![Imagem01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/87ca20b9-02bb-4131-89ec-73307bb72eea)
-" />
+![Imagem01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/87ca20b9-02bb-4131-89ec-73307bb72eea)
 
 </br>
 
