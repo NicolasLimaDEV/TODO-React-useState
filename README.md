@@ -1,8 +1,13 @@
-# React + Vite
+# ToDo List utilizando o Hook (useState)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="![Imagem 01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/46935faa-94de-40de-bca2-e6d7039a789e)
+" /> 
 
-Currently, two official plugins are available:
+</br> 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="![Imagem01](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/87ca20b9-02bb-4131-89ec-73307bb72eea)
+" />
+
+</br>
+
+<img src="![Imagem02](https://github.com/NicolasLimaDEV/TODO-React-useState/assets/91435296/10c87420-c37d-47dc-a4a1-8f1e2c69b30c)" />
